@@ -1,0 +1,11 @@
+[
+    {
+        "_id": "210avd20ss2d0",
+        "chef_picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "chefName": "Hubert Waters",
+        "years_of_experience" : "5 Years",
+        "numbers_of_recipes" : "5",
+        "Likes" : "100",
+        "description" : "Chef responsibilities include studying recipes, setting up menus and preparing high-quality dishes. You should be able to delegate tasks to kitchen staff to ensure meals are prepared in a timely manner."
+    }
+]
