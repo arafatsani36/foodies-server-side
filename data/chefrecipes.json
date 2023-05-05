@@ -1,5 +1,445 @@
 [
-    {
-        
-    }
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "1",
+
+    "chefPicture": "https://www.onlinedegree.com/wp-content/uploads/2016/11/master_chef.jpg",
+    "chefName": "John",
+    "yearsOfExperience":8 ,
+    "numOfRecipes": 40,
+    "likes": 900,
+
+    "fast_recipe_ingredients": {
+      "number_one": "4 cups water",
+      "number_two": "1 teaspoon fine salt",
+      "number_three": "1 cup polenta",
+      "number_four": "3 tablespoons butter, divided",
+      "number_five": "½ cup freshly grated Parmigiano-Reggiano cheese, plus more for garnish"
+      },
+
+
+    "fast_recipe_cooking_method" :{
+      "number_one": "Add the polenta to salted boiling water",
+      "number_two": "Simmer until the polenta is slightly thick",
+      "number_three": "Cover and continue cooking until the polenta is very thick",
+      "number_four": "Stir in the butter and cheese"
+    } ,
+
+    "fast_recipe_rating" : 4,
+
+    "second_recipe_ingredients": {
+      "number_one": "1 pound sweet Italian sausage",
+      "number_two": "¾ pound lean ground beef",
+      "number_three": "½ cup minced onion",
+      "number_four": "2 cloves garlic, crushed",
+      "number_five": "2 cloves garlic, crushed"
+      },
+
+
+    "second_recipe_cooking_method" :{
+      "number_one": "Cook sausage, ground beef, onion, and garlic in a Dutch oven over medium heat until well browned.",
+      "number_two": "Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes.",
+      "number_three": "Preheat the oven to 375 degrees F (190 degrees C).",
+      "number_four": "To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13-inch baking dish."
+    } ,
+    
+    "second_recipe_rating" : 4.5,
+
+
+    "third_recipe_ingredients": {
+      "number_one": "large onion",
+      "number_two": "medium carrots",
+      "number_three": "celery stalks",
+      "number_four": "garlic cloves",
+      "number_five": "bunches Tuscan kale"
+      },
+
+
+    "third_recipe_cooking_method" :{
+      "number_one": "Place a rack in middle of oven; preheat to 450°.",
+      "number_two": "Wash, peel, and trim 3 medium carrots. Cut in half (or in quarters lengthwise if they’re large), then cut crosswise into pieces.",
+      "number_three": "Chop 2 celery stalks crosswise into pieces. Add to bowl with the rest of the mirepoix.",
+      "number_four": "Smash and peel 8 garlic cloves with the back of your knife. If any of them are left more or less intact after that initial smashing, give them another good wack with the back of your knife so they really open up and start to break apart. Add to bowl, also."
+    } ,
+    
+    "third_recipe_rating" :5,
+
+
+    "fast_recipe_name": "Polenta",
+    "second_recipe_name": "Lasagne",
+    "third_recipe_name": "Ribollita",
+    "description": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "2",
+      "chefPicture": "jane.png",
+    "chefName": "Jane",
+    "yearsOfExperience": 8,
+    "numOfRecipes": 40,
+    "likes": 900,
+
+
+    "fast_recipe_ingredients": {
+      "number_one": "1 summer squash",
+      "number_two": "1 zucchini  ",
+      "number_three": "1/2 tsp salt",
+      "number_four": "1 pint cherry tomatoes ",
+      "number_five": "1/2 red onion"
+      },
+
+
+    "fast_recipe_cooking_method" :{
+      "number_one": "cook the tortellini according to the package directions. Then drain well and cool in a very large bowl in the fridge",
+      "number_two": "While the tortellini is cooking, slice the summer squash and the zucchini into 1/4-inch rounds and then quarter the rounds",
+      "number_three": "Slice the cherry tomatoes in half. Slice the red onion in 1/4 inch half moons and soak it in cold water to dull its sharp flavor",
+      "number_four": "Once the tortellini has cooled, top it with the cherry tomatoes, red onion, baby spinach, and sliced black olives."
+    } ,
+
+    "fast_recipe_rating" :3.5,
+
+    "second_recipe_ingredients": {
+      "number_one": "2 potatoes, peeled",
+      "number_two": "2 cups all-purpose flour",
+      "number_three": "1 egg"
+      },
+
+
+    "second_recipe_cooking_method" :{
+      "number_one": "Bring a large pot of salted water to a boil; add potatoes and cook until tender but still firm, about 15 minutes. Drain, cool, and mash with a fork or potato masher.",
+      "number_two": "Combine 1 cup mashed potato, flour, and egg in a large bowl. Knead until dough forms a ball. Shape small portions of the dough into long snakes. On a floured surface, cut snakes into 1/2-inch pieces.",
+      "number_three": "Bring a large pot of lightly salted water to a boil. Drop in gnocchi and cook for 3 to 5 minutes or until gnocchi have risen to the top; drain and serve."
+    } ,
+    
+    "second_recipe_rating" : 2,
+
+
+    "third_recipe_ingredients": {
+      "number_one": "50 g of basil leaves (about 60-65 leaves)",
+      "number_two": "1/2 cup of extra virgin olive oil",
+      "number_three": "70 g (3/4 cup) of Parmigiano Reggiano or Grana Padano",
+      "number_four": "30 g (2 tablespoons) of Pecorino Fiore Sardo ",
+      "number_five": "2 peeled garlic cloves"
+     
+      },
+
+
+    "third_recipe_cooking_method" :{
+      "number_one": " the blades and the bowl of the food processor. Put them into the refrigerator for about 10 minutes until the tools are very cold.",
+      "number_two": "Now dry the leaves very well on a kitchen towel (important: the basil leaves must be very dry)",
+      "number_three": "Chop the ingredients coarsely for a few seconds. Then add salt and Pecorino Fiore Sardo cheese cut into small pieces",
+      "number_four": " Before seasoning your pasta dish, if the pesto is too thick, add 1 or 2 tablespoons of the cooking water"
+    } ,
+    
+    "third_recipe_rating" :4,
+
+
+    "fast_recipe_name": "Tortellini Salad",
+    "second_recipe_name": "Gnocchi",
+    "third_recipe_name": "Pesto alla Genovese",
+    "description": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+  },
+
+
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "3",
+    "chefPicture": "bob.png",
+    "chefName": "Bob",
+    "yearsOfExperience": 15,
+    "numOfRecipes": 80,
+
+
+
+    "likes": 1200,
+    "fast_recipe_ingredients": {
+      "number_one": "1 large onion",
+      "number_two": "2 medium carrots",
+      "number_three": "8 celery stalks",
+      "number_four": "2 bunches Tuscan kale",
+      "number_five": "1 small wedge of Parmesan with rind"
+      },
+
+
+    "fast_recipe_cooking_method" :{
+      "number_one": " cut 1 large onion in half through root. Peel and discard skins. Finely chop and transfer to a medium bowl.",
+      "number_two": "Wash, peel, and trim 3 medium carrots. Cut in half (or in quarters lengthwise if they’re large), then cut crosswise into  pieces.",
+      "number_three": "Chop 2 celery stalks crosswise into ½ pieces. Add to bowl with the rest of the mirepoix.",
+      "number_four": "Smash and peel 8 garlic cloves with the back of your knife. If any of them are left more or less intact after that initial smashing, give them another good wack with the back of your knife so they really open up and start to break apart. Add to bowl, also."
+    } ,
+
+    "fast_recipe_rating" : 3.5,
+
+    "second_recipe_ingredients": {
+      "number_one": "3/4 cup olive oil",
+      "number_two": "6 tablespoons (3/4 stick) unsalted butter, room temperature",
+      "number_three": "12 anchovy fillets",
+      "number_four": "6 large garlic cloves, chopped",
+      "number_five": "1 1-pound loaf crusty Italian or French bread, cutinto 2-inch sections"
+      },
+
+
+    "second_recipe_cooking_method" :{
+      "number_one": "Blend oil, butter, anchovies and garlic in processor until smooth. Transfer oil mixture to heavy medium saucepan. Cook over low heat 15 minutes, stirring, occasionally. (Sauce will separate.) Season with salt and pepper.",
+      "number_two": "Pour sauce into fondue pot or other flameproof casserole. Set pot over alcohol burner or gas table burner to keep warm. Serve with vegetables and bread."
+    } ,
+    
+    "second_recipe_rating" : 5,
+
+
+    "third_recipe_ingredients": {
+      "number_one": "1 lbs fresh tortelloni or tortellini",
+      "number_two": "4 tbsp sun-dried tomato pesto I used Scala or Delallo in the US",
+      "number_three": "1-2 cloves garlic",
+      "number_four": "4 basil leaves or ½ tsp dried basil",
+      "number_five": "250ml/1 cup double/heavy whipping cream"
+      },
+
+
+    "third_recipe_cooking_method" :{
+      "number_one": "Set a large pot of salted water boiling and cook the tortelloni according to package instructions.",
+      "number_two": "Meanwhile in a large and deep pan heat the sun-dried tomato pesto together with minced garlic over low heat and fry while stirring for no longer than 30 seconds.",
+      "number_three": "Drain the tortelloni while reserving ½ cup of pasta water. Add the tortelloni directly to the sauce and toss gently to combine."
+    } ,
+    
+    "third_recipe_rating" :4.5,
+
+
+    "fast_recipe_name": "Ribollita",
+    "second_recipe_name": "Bagna Cauda",
+    "third_recipe_name": "Tortelli and Ravioli",
+    "description": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+  },
+
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": false
+    },
+    "category_id": "4",
+    "chefPicture": "alice.png",
+    "chefName": "Alice",
+    "yearsOfExperience": 5,
+    "numOfRecipes": 30,
+    "likes": 800,
+    "fast_recipe_ingredients": {
+      "number_one": "4 cups water",
+      "number_two": "1 teaspoon fine salt",
+      "number_three": "1 cup polenta",
+      "number_four": "3 tablespoons butter, divided",
+      "number_five": "½ cup freshly grated Parmigiano-Reggiano cheese, plus more for garnish"
+      },
+
+
+    "fast_recipe_cooking_method" :{
+      "number_one": "Add the polenta to salted boiling water",
+      "number_two": "Simmer until the polenta is slightly thick",
+      "number_three": "Cover and continue cooking until the polenta is very thick",
+      "number_four": "Stir in the butter and cheese"
+    } ,
+
+    "fast_recipe_rating" : 4,
+
+    "second_recipe_ingredients": {
+      "number_one": "1 pound sweet Italian sausage",
+      "number_two": "¾ pound lean ground beef",
+      "number_three": "½ cup minced onion",
+      "number_four": "2 cloves garlic, crushed",
+      "number_five": "2 cloves garlic, crushed"
+      },
+
+
+    "second_recipe_cooking_method" :{
+      "number_one": "Cook sausage, ground beef, onion, and garlic in a Dutch oven over medium heat until well browned.",
+      "number_two": "Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes.",
+      "number_three": "Preheat the oven to 375 degrees F (190 degrees C).",
+      "number_four": "To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13-inch baking dish."
+    } ,
+    
+    "second_recipe_rating" : 4.5,
+
+
+    "third_recipe_ingredients": {
+      "number_one": "large onion",
+      "number_two": "medium carrots",
+      "number_three": "celery stalks",
+      "number_four": "garlic cloves",
+      "number_five": "bunches Tuscan kale"
+      },
+
+
+    "third_recipe_cooking_method" :{
+      "number_one": "Place a rack in middle of oven; preheat to 450°.",
+      "number_two": "Wash, peel, and trim 3 medium carrots. Cut in half (or in quarters lengthwise if they’re large), then cut crosswise into pieces.",
+      "number_three": "Chop 2 celery stalks crosswise into pieces. Add to bowl with the rest of the mirepoix.",
+      "number_four": "Smash and peel 8 garlic cloves with the back of your knife. If any of them are left more or less intact after that initial smashing, give them another good wack with the back of your knife so they really open up and start to break apart. Add to bowl, also."
+    } ,
+    
+    "third_recipe_rating" :5,
+
+
+    "fast_recipe_name": "Focaccia",
+    "second_recipe_name": " Arancini",
+    "third_recipe_name": "Panzerotto fritto",
+    "description": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+  },
+  
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a3",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "5",
+    "chefPicture": "tom.png",
+    "chefName": "Tom",
+    "yearsOfExperience": 12,
+    "numOfRecipes": 60,
+    "likes": 1100,
+    "fast_recipe_ingredients": {
+      "number_one": "4 cups water",
+      "number_two": "1 teaspoon fine salt",
+      "number_three": "1 cup polenta",
+      "number_four": "3 tablespoons butter, divided",
+      "number_five": "½ cup freshly grated Parmigiano-Reggiano cheese, plus more for garnish"
+      },
+
+
+    "fast_recipe_cooking_method" :{
+      "number_one": "Add the polenta to salted boiling water",
+      "number_two": "Simmer until the polenta is slightly thick",
+      "number_three": "Cover and continue cooking until the polenta is very thick",
+      "number_four": "Stir in the butter and cheese"
+    } ,
+
+    "fast_recipe_rating" : 4,
+
+    "second_recipe_ingredients": {
+      "number_one": "1 pound sweet Italian sausage",
+      "number_two": "¾ pound lean ground beef",
+      "number_three": "½ cup minced onion",
+      "number_four": "2 cloves garlic, crushed",
+      "number_five": "2 cloves garlic, crushed"
+      },
+
+
+    "second_recipe_cooking_method" :{
+      "number_one": "Cook sausage, ground beef, onion, and garlic in a Dutch oven over medium heat until well browned.",
+      "number_two": "Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes.",
+      "number_three": "Preheat the oven to 375 degrees F (190 degrees C).",
+      "number_four": "To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13-inch baking dish."
+    } ,
+    
+    "second_recipe_rating" : 4.5,
+
+
+    "third_recipe_ingredients": {
+      "number_one": "large onion",
+      "number_two": "medium carrots",
+      "number_three": "celery stalks",
+      "number_four": "garlic cloves",
+      "number_five": "bunches Tuscan kale"
+      },
+
+
+    "third_recipe_cooking_method" :{
+      "number_one": "Place a rack in middle of oven; preheat to 450°.",
+      "number_two": "Wash, peel, and trim 3 medium carrots. Cut in half (or in quarters lengthwise if they’re large), then cut crosswise into pieces.",
+      "number_three": "Chop 2 celery stalks crosswise into pieces. Add to bowl with the rest of the mirepoix.",
+      "number_four": "Smash and peel 8 garlic cloves with the back of your knife. If any of them are left more or less intact after that initial smashing, give them another good wack with the back of your knife so they really open up and start to break apart. Add to bowl, also."
+    } ,
+    
+    "third_recipe_rating" :5,
+
+
+    "fast_recipe_name": "Polenta",
+    "second_recipe_name": "Lasagne",
+    "third_recipe_name": "Ribollita",
+    "description": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+  },
+  
+  
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "6",
+    "chefPicture": "mary.png",
+    "chefName": "Mary",
+    "yearsOfExperience": 7,
+    "numOfRecipes": 35,
+    "likes": 950,
+    "fast_recipe_ingredients": {
+      "number_one": "4 cups water",
+      "number_two": "1 teaspoon fine salt",
+      "number_three": "1 cup polenta",
+      "number_four": "3 tablespoons butter, divided",
+      "number_five": "½ cup freshly grated Parmigiano-Reggiano cheese, plus more for garnish"
+      },
+
+
+    "fast_recipe_cooking_method" :{
+      "number_one": "Add the polenta to salted boiling water",
+      "number_two": "Simmer until the polenta is slightly thick",
+      "number_three": "Cover and continue cooking until the polenta is very thick",
+      "number_four": "Stir in the butter and cheese"
+    } ,
+
+    "fast_recipe_rating" : 4,
+
+    "second_recipe_ingredients": {
+      "number_one": "1 pound sweet Italian sausage",
+      "number_two": "¾ pound lean ground beef",
+      "number_three": "½ cup minced onion",
+      "number_four": "2 cloves garlic, crushed",
+      "number_five": "2 cloves garlic, crushed"
+      },
+
+
+    "second_recipe_cooking_method" :{
+      "number_one": "Cook sausage, ground beef, onion, and garlic in a Dutch oven over medium heat until well browned.",
+      "number_two": "Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes.",
+      "number_three": "Preheat the oven to 375 degrees F (190 degrees C).",
+      "number_four": "To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13-inch baking dish."
+    } ,
+    
+    "second_recipe_rating" : 4.5,
+
+
+    "third_recipe_ingredients": {
+      "number_one": "large onion",
+      "number_two": "medium carrots",
+      "number_three": "celery stalks",
+      "number_four": "garlic cloves",
+      "number_five": "bunches Tuscan kale"
+      },
+
+
+    "third_recipe_cooking_method" :{
+      "number_one": "Place a rack in middle of oven; preheat to 450°.",
+      "number_two": "Wash, peel, and trim 3 medium carrots. Cut in half (or in quarters lengthwise if they’re large), then cut crosswise into pieces.",
+      "number_three": "Chop 2 celery stalks crosswise into pieces. Add to bowl with the rest of the mirepoix.",
+      "number_four": "Smash and peel 8 garlic cloves with the back of your knife. If any of them are left more or less intact after that initial smashing, give them another good wack with the back of your knife so they really open up and start to break apart. Add to bowl, also."
+    } ,
+    
+    "third_recipe_rating" :5,
+
+
+    "fast_recipe_name": "Polenta",
+    "second_recipe_name": "Lasagne",
+    "third_recipe_name": "Ribollita",
+    "description": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+  }
 ]
