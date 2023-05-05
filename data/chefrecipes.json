@@ -78,7 +78,7 @@
       "is_trending": true
     },
     "category_id": "2",
-      "chefPicture": "jane.png",
+    "chefPicture": "https://www.simplybusiness.co.uk/static/896d58b532c8e2ec7ac1719fe62b37ae/b6518/how-to-become-a-chef.jpg",
     "chefName": "Jane",
     "yearsOfExperience": 8,
     "numOfRecipes": 40,
@@ -152,7 +152,7 @@
       "is_trending": true
     },
     "category_id": "3",
-    "chefPicture": "bob.png",
+    "chefPicture": "https://news.harvard.edu/wp-content/uploads/2022/12/Chef-Ben-Howe-and-DELISH-Dishes-2-1200x800.jpg",
     "chefName": "Bob",
     "yearsOfExperience": 15,
     "numOfRecipes": 80,
@@ -226,7 +226,7 @@
       "is_trending": false
     },
     "category_id": "4",
-    "chefPicture": "alice.png",
+    "chefPicture": "https://www.liveabout.com/thmb/m5sj1tnGvr2OIw4gPx73tw_vvho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-607047661-571e40a75f9b58857dfd0e72.jpg",
     "chefName": "Alice",
     "yearsOfExperience": 5,
     "numOfRecipes": 30,
@@ -300,7 +300,7 @@
       "is_trending": true
     },
     "category_id": "5",
-    "chefPicture": "tom.png",
+    "chefPicture": "https://www.hitsa.com.au/wp-content/uploads/types-of-chefs-1030x687.jpg",
     "chefName": "Tom",
     "yearsOfExperience": 12,
     "numOfRecipes": 60,
@@ -371,7 +371,7 @@
       "is_trending": false
     },
     "category_id": "6",
-    "chefPicture": "mary.png",
+    "chefPicture": "https://grewallevymarketing.files.wordpress.com/2013/01/79253570.jpg",
     "chefName": "Mary",
     "yearsOfExperience": 7,
     "numOfRecipes": 35,
